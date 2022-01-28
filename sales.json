@@ -1,0 +1,47 @@
+[
+    {
+      "buyerName": "Bill Evans",
+      "saleTotal": 371,
+      "creditCard": true
+    },
+    {
+      "buyerName": "Tom Jones",
+      "saleTotal": 811,
+      "creditCard": false
+    },
+    {
+      "buyerName": "Alan Parsons",
+      "saleTotal": 436,
+      "creditCard": true
+    },
+    {
+      "buyerName": "Bill Evans",
+      "saleTotal": 6119,
+      "creditCard": false
+    },
+    {
+      "buyerName": "Alan Parsons",
+      "saleTotal": 38,
+      "creditCard": false
+    },
+    {
+      "buyerName": "Alan Parsons",
+      "saleTotal": 98,
+      "creditCard": true
+    },
+    {
+      "buyerName": "Bill Evans",
+      "saleTotal": 828,
+      "creditCard": true
+    },
+    {
+      "buyerName": "Tom Jones",
+      "saleTotal": 78,
+      "creditCard": false
+    },
+    {
+      "buyerName": "Tom Jones",
+      "saleTotal": 714,
+      "creditCard": true
+    }
+  ]
